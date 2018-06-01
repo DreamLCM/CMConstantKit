@@ -1,0 +1,22 @@
+{
+  "name": "CMConstanKit",
+  "version": "0.1.0",
+  "summary": "A short description of CMConstanKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CM/CMConstanKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CM": "953330953@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/CM/CMConstanKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CMConstanKit/Classes/**/*"
+}

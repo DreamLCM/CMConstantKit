@@ -1,0 +1,6 @@
+framework module CMConstanKit {
+  umbrella header "CMConstanKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
