@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'CMConstanKit'
   s.version          = '0.0.1'
-  s.summary          = 'A short description of CMConstanKit.'
+  s.summary          = '项目通用方法打包的框架.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
